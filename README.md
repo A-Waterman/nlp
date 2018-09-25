@@ -3,7 +3,11 @@
 
 ### Overview
 
+Natural language processing using assignments from Stanford and Oxford.
+
 ### Data
+
+Word2Vec data uses annotated TED talk data.
 
 ### Reference
 

@@ -1,8 +1,11 @@
+import os
 import urllib.request
 
+
 def download(filename, url):
-	if Path(filename).exists() == False:
+	if os.path.exists(filename) == False:
 		urllib.request.urlretrieve(url, filename=filename)
+
 
 def main():
     download("word2vec/ted_en-20160408.zip", 

@@ -7,7 +7,7 @@ Natural language processing using assignments from Stanford and Oxford.
 
 ### Data
 
-Word2Vec data uses annotated TED talk data.
+Uses the Web Inventory of Transcribed and Translated Talks (WIT3) [TED talks dataset](https://wit3.fbk.eu/mono.php?release=XML_releases&tinfo=cleanedhtml_ted)
 
 ### Reference
 

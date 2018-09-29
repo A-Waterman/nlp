@@ -10,9 +10,13 @@ TODO:
 * Bag of Words
 * Recurrent Neural Networks
 
+### Requirements
+
+See [Requirements.txt](https://github.com/A-Waterman/nlp/blob/master/Requirements.txt) for full list of requirements.
+
 ### Data
 
-Uses the Web Inventory of Transcribed and Translated Talks (WIT3) [TED talks dataset](https://wit3.fbk.eu/mono.php?release=XML_releases&tinfo=cleanedhtml_ted)
+Uses the Web Inventory of Transcribed and Translated Talks (WIT3) [TED talks dataset](https://wit3.fbk.eu/mono.php?release=XML_releases&tinfo=cleanedhtml_ted). Run 'datasets.py' to download the datasets.
 
 ### Reference
 
